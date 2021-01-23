@@ -7,5 +7,9 @@
     "db_type": "postgres",
 
     "log_bot_token": "1584662745:AAH_1iQ81LL-lIN4j6hQuw_WpFFIEK81u_k",
-    "log_channel_id": -1001377680414
+    "log_channel_id": "-1001377680414",
+
+    "gban_group": "-1001377680414",
+
+    "spamwatch_token": "8NucwpBNLy5PaGgiftcYzs4exPfh1FyTCeIzrYuIkE_4Jxy95123wOuTdx3h~2Om"
 }
