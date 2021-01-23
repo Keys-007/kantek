@@ -1,0 +1,11 @@
+{
+    "api_id": 2808401,
+    "api_hash": "8323f45a65693d1e0987651ad185917a",
+    "phone": "17624757600",
+
+    "db_password": "PASSWORD",
+    "db_type": "postgres",
+
+    "log_bot_token": "1584662745:AAH_1iQ81LL-lIN4j6hQuw_WpFFIEK81u_k",
+    "log_channel_id": -1001377680414
+}
